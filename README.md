@@ -1,5 +1,7 @@
 # 基于DEAP的遗传编程（Genetic Programming，GP）系列教程
 
+Forked From: https://github.com/hengzhe-zhang/DEAP-GP-Tutorial.git
+
 本系列教程主要介绍如何基于DEAP实现一些流行的遗传编程概念，包括：
 
 * 单树GP
