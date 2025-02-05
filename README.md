@@ -1,4 +1,4 @@
-# 基于DEAP的遗传编程（Genetic Programming，GP）系列教程
+# 基于[DEAP](./DEAP.pdf)的遗传编程（Genetic Programming，GP）系列教程
 
 Forked From: https://github.com/hengzhe-zhang/DEAP-GP-Tutorial.git
 
