@@ -39,6 +39,7 @@ Required-by:
 6. [基于GP自动设计优化算法-实验篇（自动生成北极狐算法）](application/automatically-design-de-operators.ipynb)
 7. [基于GP自动设计优化算法-理论证明篇（自动生成北极狐算法）](application/theoretical_analysis.ipynb)
 8. [基于不同算子集的多树GP](application/multisets_gp.ipynb)
+9. [基于灰狼优化的遗传编程](application/grey_wolf_optimizer.ipynb)
 
 同时，本教程包含了一些工程技巧：
 
